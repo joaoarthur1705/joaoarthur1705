@@ -1,20 +1,24 @@
 <div align="center">
 
-# Olá, eu sou o João Arthur Lima Oliveira 👋
+  <!-- Banner com gradiente e animação de ondas -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,8&height=180&section=header&text=Jo%C3%A3o%20Arthur%20Lima%20Oliveira&fontSize=36&fontAlignY=38&desc=Estudante%20de%20Engenharia%20de%20Software%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=16" width="100%" alt="Header Banner" />
 
-### 🎓 Estudante de Engenharia de Software | Desenvolvedor Full Stack
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-arthur-lima-oliveura-5b3980251" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:joaoarthur17052008@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <!-- Texto digitado dinamicamente -->
   <a href="https://github.com/joaoarthur1705">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=550&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+Full+Stack;Next.js+%7C+TypeScript+%7C+Supabase;Explorando+C+%26+Python;Construindo+aplica%C3%A7%C3%B5es+modernas+e+escal%C3%A1veis" alt="Typing SVG" />
   </a>
-</p>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-arthur-lima-oliveura-5b3980251" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:joaoarthur17052008@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/joaoarthur1705">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 
 </div>
 
@@ -22,84 +26,80 @@
 
 ### 👨‍💻 Sobre Mim
 
-- 🎓 Graduando em **Engenharia de Software**, focado nos fundamentos da computação e engenharia de sistemas.
-- 🚀 Aprofundando estudos em **arquitetura full stack moderna**, **Next.js (App Router)** e desenvolvimento de aplicações web robustas e escaláveis.
-- 💡 Apaixonado por transformar ideias em produtos completos — desde a modelagem de banco de dados e lógica de negócio até interfaces modernas e responsivas.
-- ⚙️ Experiência com paradigmas de desenvolvimento web (TypeScript/React) e linguagens estruturadas/de baixo nível e scripts (**C** e **Python**).
+- 🎓 Graduando em **Engenharia de Software**, com foco em fundamentos da computação, arquitetura de sistemas e código limpo.
+- 🚀 Atualmente aprofundando em **arquitetura Full Stack moderna**, dominando o **Next.js App Router**, **TypeScript** e microsserviços.
+- 💡 Prática no ciclo de vida completo de software: da concepção e modelagem relacional (**PostgreSQL / Supabase**) até interfaces responsivas de alta performance (**Tailwind CSS**) e deploy contínuo (**Vercel**).
+- 🧩 Experiência com programação de baixo nível e algoritmos em **C**, automação e lógica em **Python**, e desenvolvimento web corporativo com o ecossistema **React / Node.js**.
+- 🎯 Criador do **[Focalizee](https://github.com/joaoarthur1705/Focalizee)**, uma plataforma completa para otimizar foco e rotinas de estudo.
 
 ---
 
 ### 🛠️ Tecnologias & Habilidades
 
-#### **Linguagens de Programação**
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-</p>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,py,c,react,nextjs,tailwind,nodejs,postgres,supabase,vercel,git,github,vscode" alt="Minhas Tecnologias" />
+  </a>
+</div>
 
-#### **Frontend**
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+<br>
 
-#### **Backend, Dados & Cloud**
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
+<details>
+  <summary><b>🔍 Ver detalhes por categoria</b></summary>
+  <br>
+
+  | Categoria | Tecnologias |
+  | :--- | :--- |
+  | **Linguagens** | TypeScript, JavaScript (ES6+), Python, C |
+  | **Frontend** | Next.js (App Router), React 19, Tailwind CSS, HTML5, CSS3 |
+  | **Backend & Dados** | Node.js, Supabase, PostgreSQL, APIs REST |
+  | **DevOps & Ferramentas** | Git, GitHub, Vercel CI/CD, VS Code |
+
+</details>
 
 ---
 
 ### 🌟 Projeto em Destaque
 
-<table>
-  <tr>
-    <td width="100%">
-      <h3>🎯 <a href="https://github.com/joaoarthur1705/Focalizee">Focalizee — Plataforma de Gestão de Estudos e Foco</a></h3>
-      <p>Aplicação web completa desenvolvida com <strong>Next.js 15</strong>, <strong>React 19</strong>, <strong>Tailwind CSS</strong> e <strong>Supabase</strong> (PostgreSQL + RLS), hospedada na <strong>Vercel</strong>.</p>
-      <p>
-        🔹 <strong>Modo Foco (Pomodoro):</strong> Ciclos de concentração com persistência em nuvem.<br>
-        🔹 <strong>Dashboard Analítico:</strong> Métricas de produtividade e evolução do estudante.<br>
-        🔹 <strong>Rotina & Materiais:</strong> Planejamento semanal e centralização de conteúdos.
-      </p>
-      <p>
-        <a href="https://github.com/joaoarthur1705/Focalizee"><strong>🔗 Ver Código no GitHub</strong></a> • 
-        <a href="https://focalizee-oficial-360du9o6k-focalizee.vercel.app"><strong>🚀 Acessar Aplicação Live</strong></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| 🎯 **Focalizee — Gestão Inteligente de Estudos e Foco** |
+| :--- |
+| Aplicação web moderna desenvolvida para combater a procrastinação e elevar o rendimento acadêmico através da técnica Pomodoro, organização de rotinas semanais e análise de produtividade. |
+| **Stack:** `Next.js 15` • `React 19` • `TypeScript` • `Tailwind CSS` • `Supabase (PostgreSQL + RLS)` • `Vercel` |
+| [🔗 Ver Código no GitHub](https://github.com/joaoarthur1705/Focalizee) • [🚀 Acessar Aplicação Live](https://focalizee-oficial-360du9o6k-focalizee.vercel.app) |
+
+</div>
 
 ---
 
-### 📊 Estatísticas no GitHub
+### 📊 Estatísticas & Atividade no GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaoarthur1705&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoarthur1705&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=joaoarthur1705&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" alt="Estatísticas do GitHub" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoarthur1705&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Linguagens Mais Utilizadas" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaoarthur1705&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaoarthur1705&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="Sequência de Commits" />
 </div>
 
 ---
 
 ### 📫 Vamos nos conectar!
 
-- 💼 **LinkedIn:** [in/joão-arthur-lima-oliveura-5b3980251](https://www.linkedin.com/in/jo%C3%A3o-arthur-lima-oliveura-5b3980251)
-- ✉️ **E-mail:** [joaoarthur17052008@gmail.com](mailto:joaoarthur17052008@gmail.com)
-- 🌐 **GitHub:** [@joaoarthur1705](https://github.com/joaoarthur1705)
+<p align="center">
+  Estou sempre aberto a trocar ideias, colaborar em projetos de código aberto ou discutir novas oportunidades!
+  <br><br>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-arthur-lima-oliveura-5b3980251">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:joaoarthur17052008@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Conversar-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 <div align="center">
-  <sub>Construindo soluções elegantes com foco em qualidade e engenharia de software.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,8&height=100&section=footer" width="100%" alt="Footer Banner" />
 </div>
