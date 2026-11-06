@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="100%" height="220" style="background: transparent;">
+  <defs>
+    <!-- Gradiente de Fundo -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f19" />
+      <stop offset="50%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+
+    <!-- Gradiente de Destaque / Glow -->
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#6366f1" />
+      <stop offset="100%" stop-color="#a855f7" />
+    </linearGradient>
+
+    <!-- Gradiente do Texto -->
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#e2e8f0" />
+    </linearGradient>
+
+    <!-- Filtro de Sombra / Brilho -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      font-size: 38px;
+      font-weight: 800;
+      fill: url(#textGrad);
+      letter-spacing: -0.5px;
+    }
+    .badge-text {
+      font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+      font-size: 13px;
+      font-weight: 700;
+      fill: #38bdf8;
+      letter-spacing: 1.5px;
+    }
+    .subtitle {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      font-size: 17px;
+      font-weight: 400;
+      fill: #94a3b8;
+    }
+    .tech-pill {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      font-size: 12px;
+      font-weight: 600;
+      fill: #cbd5e1;
+    }
+  </style>
+
+  <!-- Card Base -->
+  <rect x="2" y="2" width="896" height="216" rx="16" fill="url(#bgGrad)" stroke="#1e293b" stroke-width="2" />
+
+  <!-- Efeitos de Luz Decorativos nos Cantos -->
+  <circle cx="150" cy="30" r="120" fill="#0284c7" opacity="0.12" filter="url(#glow)" />
+  <circle cx="780" cy="190" r="140" fill="#6366f1" opacity="0.12" filter="url(#glow)" />
+
+  <!-- Linha Decorativa Superior com Gradiente -->
+  <path d="M 2 18 Q 2 2 18 2 L 882 2 Q 898 2 898 18" stroke="url(#accentGrad)" stroke-width="3" fill="none" opacity="0.85" />
+
+  <!-- Badge Superior -->
+  <g transform="translate(60, 42)">
+    <rect x="0" y="0" width="370" height="26" rx="6" fill="#0369a1" fill-opacity="0.2" stroke="#0284c7" stroke-width="1" stroke-opacity="0.4" />
+    <circle cx="14" cy="13" r="4" fill="#38bdf8" />
+    <text x="26" y="17" class="badge-text">ENGENHARIA DE SOFTWARE • BACKEND &amp; IA</text>
+  </g>
+
+  <!-- Nome Principal -->
+  <text x="60" y="112" class="title">João Arthur Lima Oliveira</text>
+
+  <!-- Subtítulo / Descrição de Valor -->
+  <text x="60" y="146" class="subtitle">Arquitetura de sistemas, persistência relacional e produtos web de alta produtividade</text>
+
+  <!-- Tags / Chips Rápidos -->
+  <g transform="translate(60, 168)">
+    <!-- Tag 1 -->
+    <rect x="0" y="0" width="82" height="24" rx="12" fill="#1e293b" stroke="#334155" stroke-width="1" />
+    <text x="41" y="16" text-anchor="middle" class="tech-pill">Python</text>
+
+    <!-- Tag 2 -->
+    <rect x="90" y="0" width="55" height="24" rx="12" fill="#1e293b" stroke="#334155" stroke-width="1" />
+    <text x="117" y="16" text-anchor="middle" class="tech-pill">C</text>
+
+    <!-- Tag 3 -->
+    <rect x="153" y="0" width="105" height="24" rx="12" fill="#1e293b" stroke="#334155" stroke-width="1" />
+    <text x="205" y="16" text-anchor="middle" class="tech-pill">Supabase</text>
+
+    <!-- Tag 4 -->
+    <rect x="266" y="0" width="112" height="24" rx="12" fill="#1e293b" stroke="#334155" stroke-width="1" />
+    <text x="322" y="16" text-anchor="middle" class="tech-pill">PostgreSQL</text>
+
+    <!-- Tag 5 -->
+    <rect x="386" y="0" width="180" height="24" rx="12" fill="#1e293b" stroke="#334155" stroke-width="1" />
+    <text x="476" y="16" text-anchor="middle" class="tech-pill">AI-Assisted Engineering</text>
+  </g>
+
+  <!-- Indicador / Ponto de Status -->
+  <g transform="translate(760, 48)">
+    <circle cx="0" cy="0" r="5" fill="#22c55e" />
+    <circle cx="0" cy="0" r="8" fill="#22c55e" opacity="0.3">
+      <animate attributeName="r" values="6;12;6" dur="2s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.4;0;0.4" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <text x="14" y="4" font-family="-apple-system, sans-serif" font-size="13" font-weight="600" fill="#22c55e">Disponível</text>
+  </g>
+</svg>

@@ -1,7 +1,9 @@
 <div align="center">
 
-  <!-- Banner com gradiente e animação de ondas -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,8&height=180&section=header&text=Jo%C3%A3o%20Arthur%20Lima%20Oliveira&fontSize=34&fontAlignY=38&desc=Software%20Engineering%20%7C%20Backend%20%26%20AI-Assisted%20Developer&descAlignY=60&descSize=16" width="100%" alt="Header Banner" />
+  <!-- Banner moderno em SVG de alta resolução auto-hospedado -->
+  <img src="./assets/banner.svg" width="100%" alt="João Arthur Lima Oliveira - Banner" />
+
+  <br><br>
 
   <!-- Texto digitado dinamicamente -->
   <a href="https://github.com/joaoarthur1705">
@@ -116,6 +118,8 @@ Acredito que a engenharia moderna não se resume a digitar código do zero, mas 
   </a>
 </p>
 
+<hr style="border: 0; height: 1px; background: #1e293b; margin: 30px 0;" />
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,8&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <sub>Construído com foco em arquitetura limpa, engenharia assistida por inteligência artificial e alta produtividade.</sub>
 </div>
